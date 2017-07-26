@@ -1,3 +1,7 @@
 # AndroidTTSAudioLoop
 
-Simple projet to show, how to add an audio file with a text and read it in loop
+Simple projet about android text to speech show's :
+
+  * Add an audio file 
+  * Add a string text
+  * Read it in loop
